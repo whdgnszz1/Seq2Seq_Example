@@ -1,0 +1,10 @@
+.idea
+.Ds_Store
+
+venv
+datasets
+results
+models
+embeddings
+
+__pycache__/
