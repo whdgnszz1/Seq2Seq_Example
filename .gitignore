@@ -2,7 +2,7 @@
 .Ds_Store
 
 venv
-datasets
+data/train.json
 results
 models
 embeddings
